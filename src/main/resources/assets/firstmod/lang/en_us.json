@@ -1,3 +1,10 @@
 {
-  "item.firstmod.taco": "Taco"
+  "item.firstmod.taco": "Taco",
+  "item.firstmod.burrito": "Burrito",
+  "item.firstmod.bismuth": "Bismuth",
+  "item.firstmod.raw_bismuth": "Raw Bismuth",
+
+  "block.firstmod.bismuth_block": "Block of Bismuth",
+  "block.firstmod.bismuth_ore": "Bismuth Ore",
+  "block.firstmod.taco_block": "Taco Block"
 }
